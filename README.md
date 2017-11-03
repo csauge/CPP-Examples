@@ -2,7 +2,7 @@
 
 Provide CPP Clearcase tools for designers.
 
-## romanArabicConverter.cpp
+## arabicRomanConverter.cpp
 
 ### Description
 * Converts arabic numbers to roman numbers
